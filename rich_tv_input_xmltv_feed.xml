@@ -6,17 +6,17 @@ contents. For details, please see the documentation of XmlTvParser class.
 -->
 <tv>
     <channel id="com.example.android.sampletvinput.2-1" repeat-programs="true">
-        <display-name>Google</display-name>
+        <display-name>Google 121212</display-name>
         <display-number>2-1</display-number>
         <icon src="http://storage.googleapis.com/android-tv/images/google.png" />
     </channel>
     <channel id="com.example.android.sampletvinput.2-2" repeat-programs="true">
-        <display-name>Creative Commons</display-name>
+        <display-name>Creative Commons 12121</display-name>
         <display-number>2-2</display-number>
         <icon src="http://storage.googleapis.com/android-tv/images/cc.png" />
     </channel>
     <channel id="com.example.android.sampletvinput.2-3" repeat-programs="true">
-        <display-name>HLS</display-name>
+        <display-name>HLS 21121</display-name>
         <display-number>2-3</display-number>
         <icon src="http://storage.googleapis.com/android-tv/images/hls.png" />
         <app-link text="App Link Text 1" color="#4caf50"
@@ -26,7 +26,7 @@ contents. For details, please see the documentation of XmlTvParser class.
         </app-link>
     </channel>
     <channel id="com.example.android.sampletvinput.2-4" repeat-programs="true">
-        <display-name>MPEG_DASH</display-name>
+        <display-name>MPEG_DASH 12345623323</display-name>
         <display-number>2-4</display-number>
         <icon src="http://storage.googleapis.com/android-tv/images/mpeg_dash.png" />
         <app-link text="App Link Text 2" color="#4caf50"
